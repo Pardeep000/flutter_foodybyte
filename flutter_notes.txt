@@ -1,0 +1,82 @@
+https://github.com/talhakhan1297 => flutter github of Talha Javed
+flutter with mernstack
+
+
+https://www.youtube.com/playlist?list=PLYu8MyUyZxlLgFWc2IWbJqwuM985UP3Sa => flutter channel by NCAI
+
+https://www.youtube.com/playlist?list=PLFyjjoCMAPtz9TKMIz1Wty1DQXs8mEsMm
+//got it from linkedin
+
+
+https://www.youtube.com/watch?v=BqP5wQ8KE5I
+https://www.itjobsinpakistan.com/users/profile/pardeep/education
+
+https://www.youtube.com/watch?v=51bpnmbNsGk&list=PLC6P77cg6e2itpb8SqiYdrYeffUTyY377
+https://www.youtube.com/watch?v=Tv8wePvQZJY&list=PLCAZyR6zw2pyyjdifS_AFJf6HA4Ud8R4_
+https://www.youtube.com/watch?v=q2hXFhvIG9w&list=PLy-lwcPKu8i1nYdfiGza13gjw7-dy9KRE
+flutter with sqlite
+
+https://developers.turing.com/dashboard/home?n=1&s=ads_developers-google-youtube
+
+
+about the drawer:> drawer comes in scaffold body where it has:=> appbar,body,drawer,floatingactionbutton,bottomnavigation bar
+and appbar has leading,title,actions:[]
+
+how to make double line
+
+flutter run --no-sound-null-safety
+
+learn about gridview.builder
+all about carousel
+all  about animated_text()
+
+
+how to make drawer
+
+@ putting padding inside container makes padding inside of the container but putting container inside padding makes padding to the whole of the container...
+making any image black
+
+mainaxisalignment in column makes things to come in centre from top and cross can make them left or right
+container: circle=> shape:boxShape.circle, for rectangular> borderradius and all without shape keyword
+
+images in container=> just image=> child:image(image: Assetiamge) and circular
+circleAvatar(backgroundimage:Assetimage)
+otherwise=> image: decorationiamge(image:Assetimage())
+
+Q) how to bring popup in flutter as a notification of something
+
+
+all about richtext
+
+
+
+
+how to make image transparent
+
+learning of the class system...:\n
+
+final Icondata next, final Function func, final texteditingcontroller inputkey,
+
+elevatedbutton, raisedbutton, material button, iconbutton, textbutton,  floatingActionButton
+
+
+@)how to pass context so that i could try out other way for form validation
+
+//////////////////////////////////////////////////////
+@how to give to content in textformfield
+
+
+email=>user
+
+name => key
+image
+price=>items
+
+no. of items
+
+
+
+image,name,price,item_no => 0,1,2,3 => order of addition in datalist
+name,image,price,mail, no_of_items => order of addition in database
+
+
